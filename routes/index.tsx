@@ -45,7 +45,7 @@ export default function Home() {
             Also familiar with Python, C#, C, and Swift. Experience with
             database systems such as MySQL, PostgreSQL, SQLite3, and Redis.
             Familiar with React, Fresh, Express.js, SwiftUI, and more.
-            Constantly exploring and learning new things.
+            Constantly exploring and learning about new technologies.
           </p>
           <p class="profile-text-section">
             Most of my work is open-source and available on my GitHub. I'm
