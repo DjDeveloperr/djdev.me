@@ -31,4 +31,8 @@ export const socials = {
     label: "@djsandhu92",
     url: "https://www.snapchat.com/add/djsandhu92",
   },
+  linkedin: {
+    label: "@djdev",
+    url: "https://www.linkedin.com/in/djdev",
+  },
 } as const;
