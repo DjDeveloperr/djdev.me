@@ -12,8 +12,8 @@ export const socials = {
     url: "https://discord.com/users/422957901716652033",
   },
   email: {
-    label: "dj@harmony.rocks",
-    url: "mailto:dj@harmony.rocks",
+    label: "hey@djdev.me",
+    url: "mailto:hey@djdev.me",
   },
   kofi: {
     label: "@DjDeveloper",
