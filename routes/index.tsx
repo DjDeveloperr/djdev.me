@@ -30,7 +30,7 @@ export default function Home() {
       <div class="main-card">
         <div class="profile">
           <img
-            src="https://cdn.discordapp.com/attachments/957119215142326332/1102578530950328350/E1D99240-8E97-4259-AD64-CEF5C0E705A5.jpg"
+            src="https://cdn.discordapp.com/attachments/957119215142326332/1109848739184644136/IMG_2824.jpg"
             alt="Profile"
           />
           <p class="profile-name">Diljit Singh</p>
