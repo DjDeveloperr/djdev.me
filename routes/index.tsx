@@ -22,7 +22,6 @@ export default function Home() {
           />
           <p class="profile-name">Diljit Singh</p>
           <p class="profile-nick">just call me dj</p>
-          <p class="profile-work">Looking for work</p>
           <p class="profile-text-section">
             Freelance Software Engineer and Open-source enthusiast. I enjoy
             learning new things and building cool stuff.
