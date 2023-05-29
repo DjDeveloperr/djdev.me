@@ -22,9 +22,9 @@ export default function Home() {
           />
           <p class="profile-name">Diljit Singh</p>
           <p class="profile-nick">just call me dj</p>
+          <p class="profile-work">Software Engineer</p>
           <p class="profile-text-section">
-            Freelance Software Engineer and Open-source enthusiast. I enjoy
-            learning new things and building cool stuff.
+            Enjoys learning new things and building cool stuff.
           </p>
           <p class="profile-text-section">
             Proficient in JavaScript/TypeScript (Web, Deno, Node), and Rust.
@@ -34,9 +34,8 @@ export default function Home() {
             Constantly exploring and learning about new technologies.
           </p>
           <p class="profile-text-section">
-            Most of my work is open-source and available on my GitHub. I'm
-            currently available for hire, so feel free to contact me if you're
-            interested.
+            A lot of my work is open-source and available on my GitHub. That
+            said, I maintain several open-source libraries there.
           </p>
         </div>
         <div class="links">

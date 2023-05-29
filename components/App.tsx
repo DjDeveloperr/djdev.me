@@ -16,6 +16,7 @@ export function App(props: AppProps) {
         <meta name="og:title" content={props.title} />
         <meta name="og:description" content={props.description} />
         <link rel="stylesheet" href="/style.css" />
+        <meta name="theme-color" content="#262526" />
       </Head>
       <div class="app-container">
         {props.children}
