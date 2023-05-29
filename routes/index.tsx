@@ -28,10 +28,10 @@ export default function Home() {
           </p>
           <p class="profile-text-section">
             Proficient in JavaScript/TypeScript (Web, Deno, Node), and Rust.
-            Also familiar with Python, C#, C, and Swift. Experience with
-            database systems such as MySQL, PostgreSQL, SQLite3, and Redis.
-            Familiar with React, Fresh, Express.js, SwiftUI, and more.
-            Constantly exploring and learning about new technologies.
+            Also familiar with Python, C#, C/C++, Objective-C, and Swift.
+            Experience with database systems such as MySQL, PostgreSQL, SQLite3,
+            and Redis. Familiar with React, Fresh, Express.js, SwiftUI, and
+            more. Constantly exploring and learning about new technologies.
           </p>
           <p class="profile-text-section">
             A lot of my work is open-source and available on my GitHub. That
