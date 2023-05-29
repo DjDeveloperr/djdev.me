@@ -1,11 +1,4 @@
-# fresh project
+# djdev.me
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+source of [my personal website](https://djdev.me), made with
+[fresh](https://fresh.deno.dev)
