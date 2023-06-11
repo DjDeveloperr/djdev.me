@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <App
       title="Hey, I'm Dj"
-      description="Freelance Software Engineer"
+      description="Software Engineer"
     >
       <div class="main-card">
         <div class="profile">
