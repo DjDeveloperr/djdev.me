@@ -22,7 +22,7 @@ export default function Home() {
           />
           <p class="profile-name">Diljit Singh</p>
           <p class="profile-nick">just call me dj</p>
-          <p class="profile-work">Software Engineer</p>
+          <p class="profile-work">Software Engineer @ nStudio</p>
           <p class="profile-text-section">
             Enjoys learning new things and building cool stuff.
           </p>
