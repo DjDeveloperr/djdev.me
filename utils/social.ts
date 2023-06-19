@@ -8,7 +8,7 @@ export const socials = {
     url: "https://twitter.com/DeveloperrDj",
   },
   discord: {
-    label: "djdev#7001",
+    label: "@djdev",
     url: "https://discord.com/users/422957901716652033",
   },
   email: {
