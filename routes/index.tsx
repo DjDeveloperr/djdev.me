@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <App
       title="Hey, I'm Dj"
-      description="Software Engineer"
+      description="Software Developer"
     >
       <div class="main-card">
         <div class="profile">
@@ -22,7 +22,7 @@ export default function Home() {
           />
           <p class="profile-name">Diljit Singh</p>
           <p class="profile-nick">just call me dj</p>
-          <p class="profile-work">Software Engineer @ nStudio</p>
+          <p class="profile-work">Software Developer @ nStudio</p>
           <p class="profile-text-section">
             Enjoys learning new things and building cool stuff.
           </p>
