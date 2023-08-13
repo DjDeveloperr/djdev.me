@@ -24,12 +24,12 @@ export const socials = {
     url: "https://github.com/sponsors/DjDeveloperr",
   },
   instagram: {
-    label: "@djsandhu92",
-    url: "https://www.instagram.com/djsandhu92/",
+    label: "@djdev.me",
+    url: "https://www.instagram.com/djdev.me/",
   },
   snapchat: {
-    label: "@djsandhu92",
-    url: "https://www.snapchat.com/add/djsandhu92",
+    label: "@djdev.me",
+    url: "https://www.snapchat.com/add/djdev.me",
   },
   linkedin: {
     label: "@djdev",
