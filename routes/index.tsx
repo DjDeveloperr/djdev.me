@@ -17,11 +17,10 @@ export default function Home() {
       <div class="main-card">
         <div class="profile">
           <img
-            src="https://cdn.discordapp.com/attachments/848911908127113296/1146906179927294002/CCFC2CF9-DC71-4024-8B20-D32FA8D95897_1_201_a.jpeg"
+            src="https://avatars.githubusercontent.com/u/43033058?v=4"
             alt="Profile"
           />
-          <p class="profile-name">Diljit Singh</p>
-          <p class="profile-nick">just call me dj</p>
+          <p class="profile-name">Dj</p>
           <p class="profile-work">Software Developer @ nStudio</p>
           <p class="profile-text-section">
             Enjoys learning new things and building cool stuff.
