@@ -21,7 +21,7 @@ export default function Home() {
             alt="Profile"
           />
           <p class="profile-name">Dj</p>
-          <p class="profile-work">Software Developer @ nStudio</p>
+          <p class="profile-work">Software Developer, working on NativeScript runtime</p>
           <p class="profile-text-section">
             Enjoys learning new things and building cool stuff.
           </p>
