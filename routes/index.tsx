@@ -44,6 +44,16 @@ export default function Home() {
             <GitHubIcon />
           </Link>
           <Link
+            {...socials.linkedin}
+          >
+            <LinkedInIcon />
+          </Link>
+          <Link
+            {...socials.twitter}
+          >
+            <TwitterIcon />
+          </Link>
+          <Link
             {...socials.discord}
           >
             <DiscordIcon />
@@ -52,6 +62,11 @@ export default function Home() {
             {...socials.email}
           >
             <EmailIcon />
+          </Link>
+          <Link
+            {...socials.instagram}
+          >
+            <InstagramIcon />
           </Link>
         </div>
       </div>
