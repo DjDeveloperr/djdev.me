@@ -14,7 +14,7 @@ export function Link(props: LinkProps) {
         ? <img class="link-icon" src={props.icon} alt={props.label} />
         : null}
       {props.children}
-      <p class="link-label">{props.label}</p>
+      <h3 class="link-label">{props.label}</h3>
     </a>
   );
 }
