@@ -20,7 +20,7 @@ export default function Home() {
             src="https://avatars.githubusercontent.com/u/43033058?v=4"
             alt="Profile"
           />
-          <p class="profile-name">Dj</p>
+          <h3 class="profile-name">Dj</h3>
           <p class="profile-work">Software Developer, working on NativeScript runtime</p>
           <p class="profile-text-section">
             Enjoys learning new things and building cool stuff.
