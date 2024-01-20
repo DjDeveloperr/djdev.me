@@ -15,7 +15,7 @@ export default function Home() {
       description="Software Developer"
     >
       <div class="main-card">
-        <div class="profile">
+        <header class="profile" aria-label="Profile">
           <img
             src="https://avatars.githubusercontent.com/u/43033058?v=4"
             alt="Profile"
@@ -36,8 +36,8 @@ export default function Home() {
             A lot of my work is open-source and available on my GitHub. That
             said, I maintain several open-source libraries there.
           </p>
-        </div>
-        <div class="links">
+        </header>
+        <nav class="links" aria-label="Links">
           <Link
             {...socials.github}
           >
@@ -68,7 +68,7 @@ export default function Home() {
           >
             <InstagramIcon />
           </Link>
-        </div>
+        </nav>
       </div>
     </App>
   );
